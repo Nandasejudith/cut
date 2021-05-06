@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b525ec3-4f9c-4348-a160-7d82a165d3aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/Arrays.kt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays.kt/src/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-6/Classwork-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello/Hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUDITH/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUDITH/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUDITH/src/NANDASE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinShowEnTEll/KotlinShowEnTEll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../List_Revision/src/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/OOPassignment.kt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPassignment.kt/src/OOpassignment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShowEnTell/ShowEnTell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShowEnTell/src/myWork.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try/src/try.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-7/assignment-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bottle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classWork.kt/classWork.kt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/6.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/src/members" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../family/src/nuy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fiz/fiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControl/flowControl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControlAssignment/flowControlAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flowControlAssignment/src/flowControlAsignment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritence/inheritence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jn/jn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlinAssignment/kotlinAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlinAssignment/src/asssignment6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop.kt/oop.kt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop.kt/src/oop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal/personal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal/src/fizzbuzz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/6.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showEnTell.kt/showEnTell.kt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/src/bottle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../water/src/bottle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sA4CW4uRhysMRF2FYk0EuuVOHC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinKt" />
+      <module name="kotlinCut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.KotlinKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b525ec3-4f9c-4348-a160-7d82a165d3aa" name="Default Changelist" comment="" />
+      <created>1620301942383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620301942383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
